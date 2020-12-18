@@ -1,0 +1,19 @@
+h1 {
+
+}
+body{
+    background-color:#82B5B5;
+}
+.banner {
+    text-align: center;
+    height: 100px;
+    width: 100vw;
+    margin-top: 20px;
+}
+button {
+    width: 280px;
+    margin-top: 10px;
+}
+.container {
+    margin-top: 20px;
+}
